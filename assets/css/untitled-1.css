@@ -1,0 +1,178 @@
+.desktop .overlap-group-wrapper {
+  background-color: #ffffff;
+  width: 1920px;
+  height: 1080px;
+}
+
+.desktop .overlap-group {
+  position: relative;
+  height: 1080px;
+  background-image: url(./img/untitled-1-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop .electrician-for-any {
+  position: absolute;
+  width: 287px;
+  height: 61px;
+  top: 572px;
+  left: 142px;
+}
+
+.desktop .welcome-to-berlin-s {
+  position: absolute;
+  width: 514px;
+  top: 650px;
+  left: 141px;
+  font-family: "KorbinW01-Medium-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 19px;
+  letter-spacing: 0;
+  line-height: 31.5px;
+}
+
+.desktop .text-wrapper {
+  position: absolute;
+  top: 359px;
+  left: 1362px;
+  font-family: "KorbinW01-Medium-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: 31.5px;
+  white-space: nowrap;
+}
+
+.desktop .div {
+  position: absolute;
+  width: 445px;
+  top: 428px;
+  left: 1256px;
+  -webkit-text-stroke: 2px #e88200;
+  font-family: "KorbinW01-Bold-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 97px;
+  letter-spacing: 0;
+  line-height: 36.5px;
+}
+
+.desktop .rectangle {
+  position: absolute;
+  width: 787px;
+  height: 391px;
+  top: 540px;
+  left: 960px;
+  background-color: #d9d9d9;
+  border-radius: 25px;
+}
+
+.desktop .text-wrapper-2 {
+  position: absolute;
+  top: 899px;
+  left: 141px;
+  font-family: "KorbinW01-Bold-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 27px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .overlap-group-wrapper {
+  background-color: #ffffff;
+  width: 1920px;
+  height: 1080px;
+}
+
+.desktop .overlap-group {
+  position: relative;
+  height: 1080px;
+  background-image: url(./img/untitled-1-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop .electrician-for-any {
+  position: absolute;
+  width: 287px;
+  height: 61px;
+  top: 572px;
+  left: 142px;
+}
+
+.desktop .welcome-to-berlin-s {
+  position: absolute;
+  width: 514px;
+  top: 650px;
+  left: 141px;
+  font-family: "KorbinW01-Medium-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 19px;
+  letter-spacing: 0;
+  line-height: 31.5px;
+}
+
+.desktop .text-wrapper {
+  position: absolute;
+  top: 359px;
+  left: 1362px;
+  font-family: "KorbinW01-Medium-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: 31.5px;
+  white-space: nowrap;
+}
+
+.desktop .div {
+  position: absolute;
+  width: 445px;
+  top: 428px;
+  left: 1256px;
+  -webkit-text-stroke: 2px #e88200;
+  font-family: "KorbinW01-Bold-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 97px;
+  letter-spacing: 0;
+  line-height: 36.5px;
+}
+
+.desktop .rectangle {
+  position: absolute;
+  width: 787px;
+  height: 391px;
+  top: 540px;
+  left: 960px;
+  background-color: #d9d9d9;
+  border-radius: 25px;
+}
+
+.desktop .text-wrapper-2 {
+  position: absolute;
+  top: 899px;
+  left: 141px;
+  font-family: "KorbinW01-Bold-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 27px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+

@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'korbinw01-mediumregular';
+	src: url(../../assets/fonts/korbin_w01_medium-webfont.woff2) format('woff2'),
+	url(../../assets/fonts/korbin_w01_medium-webfont.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: auto;
+}
